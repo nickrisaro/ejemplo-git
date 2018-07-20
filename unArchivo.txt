@@ -2,6 +2,6 @@ Hola!
 
 Voy a hacer un merge
 
-Vamos con el rebase
+Este es el rebase
 
 Chau
